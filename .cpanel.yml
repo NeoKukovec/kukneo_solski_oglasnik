@@ -1,5 +1,5 @@
 ---
     deployment:
     tasks:
-     - export DEPLOYPATH=/home/kukneo/public_html/oglasnik
+     - export DEPLOYPATH=/home/kukneo/public_html/kukneo_solski_oglasnik
      - /bin/cp -R * $DEPLOYPATH
